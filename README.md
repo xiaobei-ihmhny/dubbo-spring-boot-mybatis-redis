@@ -1,3 +1,5 @@
+# 个人感觉，此项目参考意义不是很大
+
 # dubbo-spring-boot-mybatis-redis
 通过dubbo+spring boot+mybatis+redis等主流技术搭建成一套分布式服务框架
 
